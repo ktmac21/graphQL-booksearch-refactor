@@ -13,7 +13,7 @@
 
 ## Description
 
-In this week's homework my task was to refactor an existing functional Google Books API search engine web application built with a RESTful API and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. 
+In this week's homework my task was to refactor an existing functional Google Books API search engine web application built with a RESTful API and refactor it to be a GraphQL API using Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server. 
 
 ## Screenshot
 
@@ -43,7 +43,7 @@ tba
 
 ## Usage
 
-When the user opens the website they are presented with a Google Books search engine and a nav bar with an login/sign up link. The user can search for books without creating an account. If the user creates an account they can save searced books and delete saved books from their user dashboard.
+When the user opens the website they are presented with a Google Books search engine and a nav bar with a login or sign-up link. The user can search for books without creating an account however if the user creates an account they can save searched books and delete saved books from their user dashboard.
 
 ## Questions
 
